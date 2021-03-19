@@ -1,9 +1,9 @@
 {
   "name": "@vpetrusevici/ngx-chips",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "description": "Tag Input component for Angular",
   "scripts": {
-    "release": "npm run build && cd dist && npm publish --access public",
+    "release": "npm run build && ncp ./modules/core/styles ./dist/core/styles && cd dist && npm publish --access public",
     "build": "ng build lib",
     "server": "ng serve --port 3010",
     "start": "npm run server",
