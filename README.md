@@ -1,5 +1,7 @@
 # Tag Input Component for Angular [![Build Status](https://travis-ci.org/Gbuomprisco/ngx-chips.svg?branch=develop)](https://travis-ci.org/Gbuomprisco/ng2-tag-input) [![npm version](https://badge.fury.io/js/ngx-chips.svg)](https://badge.fury.io/js/ngx-chips)
 
+This is a fork from https://www.npmjs.com/package/ngx-chips with update to support Angular 11.
+
 This is a component for Angular >= 4. Design and API are blandly inspired by Angular Material's md-chips. Formerly called ng2-tag-input.
 
 [![NPM](https://nodei.co/npm/ngx-chips.png?downloads=true&stars=true)](https://nodei.co/npm/ngx-chips/)
